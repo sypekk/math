@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/math/static/js/main.9f3ded06.chunk.js",
-    "main.js.map": "/math/static/js/main.9f3ded06.chunk.js.map",
+    "main.js": "/math/static/js/main.3f7b6306.chunk.js",
+    "main.js.map": "/math/static/js/main.3f7b6306.chunk.js.map",
     "runtime-main.js": "/math/static/js/runtime-main.7303b62a.js",
     "runtime-main.js.map": "/math/static/js/runtime-main.7303b62a.js.map",
     "static/js/2.8841b1ad.chunk.js": "/math/static/js/2.8841b1ad.chunk.js",
     "static/js/2.8841b1ad.chunk.js.map": "/math/static/js/2.8841b1ad.chunk.js.map",
     "index.html": "/math/index.html",
-    "precache-manifest.4921f869e1e39d09c0b8bd892395d91e.js": "/math/precache-manifest.4921f869e1e39d09c0b8bd892395d91e.js",
+    "precache-manifest.7a8b4bc661cd4204b431767cd1f65180.js": "/math/precache-manifest.7a8b4bc661cd4204b431767cd1f65180.js",
     "service-worker.js": "/math/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.7303b62a.js",
     "static/js/2.8841b1ad.chunk.js",
-    "static/js/main.9f3ded06.chunk.js"
+    "static/js/main.3f7b6306.chunk.js"
   ]
 }
